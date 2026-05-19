@@ -27,3 +27,7 @@ kubectl apply -f deployment.yaml
 kubectl apply -f service.yaml
 minikube service fastapi-service
 ```
+
+Screenshot:
+
+![FastAPI browser output](screenshots/browser-output.png)

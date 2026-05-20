@@ -10,5 +10,5 @@ COPY . .
 
 CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
 
-#created this docker file for one container
+#created this docker file for one container 
 

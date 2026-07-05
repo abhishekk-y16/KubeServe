@@ -1,6 +1,6 @@
 # k8s-fastapi-project
 
-A minimal FastAPI application demonstrating containerization with Docker and orchestration with Kubernetes on Minikube. This project includes CI/CD automation via GitHub Actions.
+A Minimal FastAPI application demonstrating containerization with Docker and orchestration with Kubernetes on Minikube. This project includes CI/CD automation via GitHub Actions.
 
 ---
 
